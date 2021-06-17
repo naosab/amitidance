@@ -1,0 +1,37 @@
+.banner {
+	background-image: url(../../images/dancer.jpg);
+	color: white;
+	padding: 100px 0px;
+	background-size: cover;
+	background-position: center;
+	color: whitesmoke;
+	font-size: 20px;
+	
+}
+
+
+
+
+.banner h5 {
+	font-size: 70px;
+	font-size: 30px
+	margin-bottom: -10px;
+	margin-block: auto;
+	text-shadow: 0 0 black;
+}
+
+.banner h2 {
+	font-size: 29px;
+	color: bisque;
+}
+
+.banner h1 {
+	font-size: 50px;
+	opacity: 1;
+    color: burlywood;
+    font-style: initial;
+    font-weight: bolder;
+	margin-buttom: 20px;
+}
+
+
