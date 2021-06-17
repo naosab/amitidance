@@ -1,0 +1,13 @@
+
+.members {
+	display: flex;
+    justify-content: space-between;
+    text-align: justify;
+	
+
+}
+
+.team_member h3 {
+	text-align: center;
+	
+}
