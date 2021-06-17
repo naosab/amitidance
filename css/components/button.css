@@ -1,0 +1,15 @@
+
+.btn-pink {
+	background-color: pink;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-family: 'Roboto', sans-serif;
+
+
+} 
+
+.btn-pink :hover{
+	background-color: black;
+	color: black;
+}
